@@ -1,0 +1,22 @@
+export const categories = [
+    {
+        title:'Food',
+        value:'food'
+    },
+    {
+        title:'Entertainment',
+        value:'entertainment'
+    },
+    {
+        title:'Travel',
+        value:'travel'
+    },
+    {
+        title:'Bills',
+        value:'bills'
+    },
+    {
+        title:'Other',
+        value:'other'
+    },
+]
